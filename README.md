@@ -1,4 +1,4 @@
-# GEMUG
+# gem-9ru(그루)
 
 해커커뮤니티 HSPACE에서 CLUB·LABS를 담당하고 있습니다.
 
